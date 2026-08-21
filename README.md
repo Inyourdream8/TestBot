@@ -60,7 +60,7 @@ cp .env.example .env
 Open `.env` in a text editor and replace `YOUR_BOT_TOKEN_HERE` with your actual Telegram bot token:
 
 ```env
-TELEGRAM_BOT_TOKEN=123456789:ABCdefGhIJKlmNoPQRsTUVwxyZ
+TELEGRAM_BOT_TOKEN=
 ```
 
 ### 6. Run the Bot
